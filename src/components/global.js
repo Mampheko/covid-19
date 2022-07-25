@@ -6,10 +6,10 @@ function GlobalStats(props) {
 
         <div>
 
-            <h1>Covid-19 Tracker</h1>
+           
 
             <div className="globalStats">
-
+            <h1>Covid-19 Tracker</h1>
                 <div>
                     <h2>{props.global.TotalConfirmed}</h2>
                     <small>Total Confirmed</small>

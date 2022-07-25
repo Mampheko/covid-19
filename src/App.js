@@ -5,6 +5,7 @@ import './App.css';
 import  GlobalStats from './components/global';
 import CountriesStats from './components/countriesStats';
 import Search from './components/search';
+import { isVisible } from '@testing-library/user-event/dist/utils';
 
 function App() {
 
